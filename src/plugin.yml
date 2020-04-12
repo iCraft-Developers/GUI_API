@@ -1,0 +1,5 @@
+name: GUI-API
+main: icraft.gui.Main
+version: 1.0
+author: xdaanielx
+description: GUI API

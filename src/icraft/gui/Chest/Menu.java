@@ -10,13 +10,10 @@ import org.bukkit.inventory.Inventory;
 import org.bukkit.inventory.InventoryHolder;
 import org.bukkit.inventory.ItemStack;
 import org.bukkit.plugin.Plugin;
-import org.bukkit.plugin.PluginManager;
 
 import javax.annotation.Nonnull;
 import java.lang.reflect.InvocationTargetException;
 import java.util.HashMap;
-
-import static org.bukkit.plugin.java.JavaPlugin.getPlugin;
 
 
 public class Menu implements InventoryHolder, Listener {
