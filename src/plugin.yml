@@ -3,3 +3,4 @@ main: icraft.gui.Main
 version: 1.0
 author: xdaanielx
 description: GUI API
+api-version: 1.15
